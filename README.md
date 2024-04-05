@@ -1,5 +1,5 @@
 # Knowledge Graphs Can be Learned with Just Intersection Features
-> This is the official codebase for our paper "Knowledge Graphs Can be Learned with Just Intersection Features" ([OpenReview](https://openreview.net/forum?id=)). Should you need to cite our paper, please use the following BibTeX:
+> This is the official codebase for our paper "Knowledge Graphs Can be Learned with Just Intersection Features". Should you need to cite our paper, please use the following BibTeX:
 
 ```
 @inproceedings{le2024intersectionfeatures,
@@ -38,3 +38,5 @@ bash make.sh
 cd OpenKE/
 python examples/train_intersection_feature_WN18RR.py
 ```
+
+We provide the implementation based on [OpenKE](https://github.com/thunlp/OpenKE).
