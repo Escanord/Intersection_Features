@@ -5,7 +5,7 @@
 @inproceedings{le2024intersectionfeatures,
     title={Knowledge Graphs Can be Learned with Just Intersection Features},
     author={Le, Duy and Zhong, Shaochen and Liu, Zirui and Xu, Shuai and Chaudhary, Vipin and Zhou, Kaixiong and Xu, Zhaozhuo},
-    booktitle={ArXiv},
+    booktitle={International Conference on Machine Learning},
     year={2024},
 }
 ```
